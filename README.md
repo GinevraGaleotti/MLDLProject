@@ -4,9 +4,9 @@ This project addresses the task of Natural Language Queries (NLQ) from the egoce
 
 Initially, we conducted a comparison of existing networks, testing different text encoders (BERT, GloVe), network architectures (VSLBase, VSLNet) and pre-extracted features (EgoVLP, Omnivore), to identify the best-performing combination. Subsequently, we explored two different approaches to create an augmented dataset, which was then used for pre-training and fine-tuning the previously selected optimal network.
 
-**File and Notebooks descriptions**
+## **File and Notebooks descriptions**
 
-**Networks comparison.ipynb**: this notebook contains a comparative analysis of different model configurations, pre-extracted features, and text encoders. The files **mainBase.py**, **VSLBase.py**, and **runner_utilsBase.py** are utilized within this notebook. The numerical output results are documented in the file **Network_comparison_results.pdf**.
+### **Networks comparison.ipynb**: this notebook contains a comparative analysis of different model configurations, pre-extracted features, and text encoders. The files **mainBase.py**, **VSLBase.py**, and **runner_utilsBase.py** are utilized within this notebook. The numerical output results are documented in the file **Network_comparison_results.pdf**.
 
 **Finetuning augmentation first approach.ipynb**: this notebook creates the augmented dataset using the first approach and subsequently performs fine-tuning and pre-training on the original dataset.
 
