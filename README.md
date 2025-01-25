@@ -8,9 +8,9 @@ Initially, we conducted a comparison of existing networks, testing different tex
 
 - **Networks comparison.ipynb**: this notebook contains a comparative analysis of different model configurations, pre-extracted features, and text encoders. The files **mainBase.py**, **VSLBase.py**, and **runner_utilsBase.py** are utilized within this notebook. The numerical output results are documented in the file **Network_comparison_results.pdf**.
 
-- **Finetuning augmentation first approach.ipynb**: this notebook creates the augmented dataset using the first approach and subsequently performs fine-tuning and pre-training on the original dataset.
+- **Finetuning_augmentation_first_approach.ipynb**: this notebook creates the augmented dataset using the first approach and subsequently performs fine-tuning and pre-training on the original dataset.
 
-- **Finetuning augmentation second approach.ipynb**: this notebook creates the augmented dataset using the second approach and subsequently performs fine-tuning and pre-training on the original dataset.
+- **Finetuning_augmentation_second_approach.ipynb**: this notebook creates the augmented dataset using the second approach and subsequently performs fine-tuning and pre-training on the original dataset.
 
 
 
