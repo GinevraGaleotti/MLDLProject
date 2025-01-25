@@ -1,4 +1,4 @@
-#**Natural Language Queries on Ego4D Dataset**
+# **Natural Language Queries on Ego4D Dataset**
 
 This project addresses the task of Natural Language Queries (NLQ) from the egocentric Ego4D dataset, a benchmark requiring the prediction of video temporal segments in response to natural language queries. The main objective was to improve the performance of existing models by augmenting the dataset using a language model (LLM) called GEMMA to generate new queries based on the annotations of the original dataset.
 
