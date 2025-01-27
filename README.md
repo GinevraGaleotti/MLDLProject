@@ -12,9 +12,9 @@ Initially, we conducted a comparison of existing networks, testing different tex
 
 - **Finetuning_augmentation_second_approach.ipynb**: this notebook creates the augmented dataset using the second approach and subsequently performs fine-tuning and pre-training on the original dataset.
   
-- **augmented_nlq_train_first_approach**: this zip file (json compressed) contains the augmented training dataset for NLQ benchmark obtained using the first approach
+- **augmented_nlq_train_first_approach.zip**: this zip file (.json compressed) contains the augmented training dataset for NLQ benchmark obtained using the first approach
   
-- **augmented_nlq_train_second_approach**: this zip file (json compressed) contains the augmented training dataset for NLQ benchmark obtained using the second approach  
+- **augmented_nlq_train_second_approach.zip**: this zip file (.json compressed) contains the augmented training dataset for NLQ benchmark obtained using the second approach  
 
 
 
